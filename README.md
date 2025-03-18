@@ -2,7 +2,7 @@
 
 2nd Semester University Project
 
-_Web Programming 2 - UBSI_
+_Object Based Programming - UBSI_
 
 # About Application
 ```THIS APP IS USED TO MAKE HOUSE SALES TRANSACTION```
